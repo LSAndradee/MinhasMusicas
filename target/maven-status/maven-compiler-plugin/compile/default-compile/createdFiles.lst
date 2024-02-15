@@ -1,0 +1,5 @@
+br\com\alura\minhasmusicas\modelos\Audio.class
+br\com\alura\minhasmusicas\modelos\Musica.class
+br\com\alura\minhasmusicas\principal\Principal.class
+br\com\alura\minhasmusicas\modelos\Podcast.class
+br\com\alura\minhasmusicas\modelos\MinhasPreferidas.class
